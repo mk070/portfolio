@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "madhan-p",
+    "madhan-portfolio": "madhanp-portfolio",
+    "madhan-p": "madhan-p"
+  },
+  "targets": {},
+  "etags": {}
+}
