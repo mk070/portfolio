@@ -12,7 +12,7 @@ export const projectsData = [
         category2: "CMS Web ",
         title: "Garcity",
         size: "large",
-        link:'https://knowledgenest.tech/'
+        link:''
     },
     {
         id: 2,
@@ -20,7 +20,7 @@ export const projectsData = [
         category1: "Website Development",
         title: "Varloom",
         size: "large",
-        link:'https://varloom.com/'
+        link:''
     },
     {
         id: 4,
@@ -28,7 +28,7 @@ export const projectsData = [
         category1: "Website Development",
         title: "Trade Analyst",
         size: "normal",
-        link:'https://tradeanalyst.co.in/'
+        link:''
     },
     {
         id: 3,
@@ -36,7 +36,7 @@ export const projectsData = [
         category1: "Website Development",
         title: "KnowledgeNest",
         size: "normal",
-        link:'https://knowledgenest.tech/'
+        link:''
     },
     
     {
