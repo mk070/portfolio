@@ -35,7 +35,7 @@ const Portfolio = () => {
                                                 <span className="portfolio-category ">{category1}</span>
                                                 {/* {category2 && <span className="portfolio-category ml-20">{category2}</span>} */}
                                             </div>
-                                            <h1 className="portfolio-caption text-slate-900 text-xl font-semibold">{title}</h1>
+                                            <h1 className="portfolio-caption text-gray-400 text-xl font-semibold">{title}</h1>
                                         </div>
                                     </div>
                                 </div>

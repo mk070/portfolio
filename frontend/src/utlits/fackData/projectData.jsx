@@ -8,44 +8,38 @@ export const projectsData = [
     {
         id: 1,
         src: work_1,
-        category1: "CMS Website Development",
-        category2: "CMS Web ",
-        title: "Garcity",
+
+        category1: "Web App",
+        title: "shlloom",
         size: "large",
-        link:''
+        link:'https://shlloom.app/'
     },
     {
         id: 2,
         src: work_2,
-        category1: "Website Development",
-        title: "Varloom",
+        category1: "CMS Website",
+        category2: "CMS Web ",
+        title: "Garcity",
         size: "large",
-        link:''
-    },
-    {
-        id: 4,
-        src: work_4,
-        category1: "Website Development",
-        title: "Trade Analyst",
-        size: "normal",
-        link:''
+        link:'https://garcity-ecomm-website-frontend.vercel.app/'
     },
     {
         id: 3,
-        src: work_3,
+        src: work_4,
         category1: "Website Development",
-        title: "KnowledgeNest",
+        title: "Portfolio",
         size: "normal",
-        link:''
+        link:'https://www.ganeshkumarj.com/'
     },
+  
     
     {
-        id: 5,
+        id: 4,
         src: work_5,
-        category1: "Hosting",
-        title: "Vahi's Bakers choice",
+        category1: "Website Development",
+        title: "The Gym",
         size: "normal",
-        link:"https://vahisbakerschoice.in/"
+        link:"https://the-gym-react.web.app/"
     },
 
 
